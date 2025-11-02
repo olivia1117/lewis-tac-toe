@@ -1,3 +1,9 @@
+/* 
+src/App.js
+credits: this was taken from the React tic-tac-toe tutorial
+and modified by myself
+*/
+
 import { useState } from 'react';
 
 function Square({ value, onSquareClick }) {
